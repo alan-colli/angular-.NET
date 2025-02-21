@@ -1,0 +1,34 @@
+{
+  "musics": [
+    {
+      "id": 1,
+      "band": "Led Zeppelin",
+      "music": "Stairway to Heaven"
+    },
+    {
+      "id": 2,
+      "band": "Pink Floyd",
+      "music": "Comfortably Numb"
+    },
+    {
+      "id": 3,
+      "band": "Guns N Roses",
+      "music": "Dont Cry"
+    },
+    {
+      "id": 4,
+      "band": "Nirvana",
+      "music": "Smells Like Teen Spirit"
+    },
+    {
+      "id": 5,
+      "band": "RHCP",
+      "music": "Under the Bridge"
+    },
+    {
+      "id": 6,
+      "band": "AC/DC",
+      "music": "Back in Black"
+    }
+  ]
+}

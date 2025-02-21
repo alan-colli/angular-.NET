@@ -1,0 +1,53 @@
+.main {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+}
+
+.header {
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+  font-size: xxx-large;
+}
+
+.principal {
+  margin-top: 50px;
+  display: flex;
+  height: 60%;
+  width: 50%;
+  background-color: rgb(46, 43, 43);
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10%;
+  margin-top: 50px;
+  gap: 20px;
+}
+
+.input {
+  height: 30px;
+  font-size: large;
+  outline: none;
+  border-radius: 4px;
+}
+
+.button {
+  height: 40px;
+  width: 80px;
+  border-radius: 6px;
+  background-color: rgb(0, 255, 229);
+  font-size: large;
+}
+.button:hover {
+  transform: scale(1.1);
+}
