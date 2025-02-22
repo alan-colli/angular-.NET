@@ -7,10 +7,12 @@
       <button class="button">Enviar</button>
     </form>
     <tbody>
-      <tr **ngFor="let musica of musicas"></tr>
-      <td>{{ musica.id }}</td>
-      <td>{{ musica.band }}</td>
-      <td>{{ musica.music }}</td>
+      <tr *ngFor="let musica of musicas">
+        <td>{{ musica.id }}</td>
+        <td>{{ musica.band }}</td>
+        <td>{{ musica.music }}</td>
+      </tr>
+      <
     </tbody>
   </div>
 </div>
